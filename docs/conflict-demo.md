@@ -1,1 +1,1 @@
-BomberMan is a Java 17 game project.
+BomberMan is a Java 17 and Gradle game project.
