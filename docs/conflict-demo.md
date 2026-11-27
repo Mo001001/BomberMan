@@ -1,1 +1,1 @@
-BomberMan is a Java game project.
+BomberMan is a Java and Gradle game project.
